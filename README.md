@@ -1,12 +1,8 @@
 # Shreddit
 
-Original repo and Readme.md [here](https://github.com/x89/Shreddit).
-
-# Donation
-
-### If you wish to support development and bugfixing of this script or any others I work on please consider a donation
-
-[![Donate via Paypal.me](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/djbp)
+Original repo and Readme.md [here](https://github.com/x89/Shreddit), this repo
+extended from [pythonInRelay](https://github.com/pythonInRelay/Shreddit) in an
+attempt to fix 429 errors from the API. So far unsuccessful.
 
 # FAQ - Common Error(s)
 
